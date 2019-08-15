@@ -15,5 +15,7 @@
 
 - [ ] Minify js and styles in the production environment
 
+- [ ] Response from the API must be added to the view for a user to see 
+
 
 All of these requirements are explained throughout the course. Specifics on setting up the Aylien API are found in the README file of this repo.
