@@ -1,19 +1,19 @@
 # Project Requirements:
 
 ### Your project must:
--[ ] Be set up with Webpack, Express, Node, and Sass
+- [ ] Be set up with Webpack, Express, Node, and Sass
 
--[ ] Have separate dev and prod configurations for Webpack
+- [ ] Have separate dev and prod configurations for Webpack
 
--[ ] Have the developer environment set up with the Webpack dev server
+- [ ] Have the developer environment set up with the Webpack dev server
 
--[ ] Have a minimum of one form field
+- [ ] Have a minimum of one form field
 
--[ ] Make one request to the Aylien API
+- [ ] Make one request to the Aylien API
 
--[ ] Use Sass for styling
+- [ ] Use Sass for styling
 
--[ ] Minify js and styles in the production environment
+- [ ] Minify js and styles in the production environment
 
 
 All of these requirements are explained throughout the course. Specifics on setting up the Aylien API are found in the README file of this repo.
